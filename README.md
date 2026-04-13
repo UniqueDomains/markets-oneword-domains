@@ -1,10 +1,10 @@
-# Available .MARKETS One-Word Domains (4,632)
+# Available .MARKETS One-Word Domains (4,634)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C634%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C632%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C634%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .markets one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 4,634 rows · **Live catalog:** 4,632 domains
+**Public extract:** 4,634 rows · **Live catalog:** 4,634 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/markets`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | sam.markets     | available | $9.99     | —             | 80             | 57     | 3      | name.com    |
-| mix.markets     | resell    | $9,198.85 | $16.99        | 66             | 44     | 3      | Dynadot Inc |
+| mix.markets     | resell    | $9,198.85 | $16.99        | 66             | 45     | 3      | Dynadot Inc |
 | outlook.markets | premium   | $250      | —             | 77             | 72     | 7      | name.com    |
 | mike.markets    | available | $9.99     | —             | 84             | 51     | 4      | name.com    |
 | status.markets  | resell    | $9.99     | —             | 76             | 41     | 6      | Dynadot Inc |
@@ -82,7 +82,7 @@ print(df.head())
 | hey.markets     | available | $9.99     | —             | 68             | 46     | 3      | name.com    |
 | papa.markets    | resell    | $9.99     | —             | 74             | 32     | 4      | Dynadot Inc |
 | power.markets   | premium   | $500      | —             | 82             | 62     | 5      | name.com    |
-| stark.markets   | available | $9.99     | —             | 72             | 45     | 5      | name.com    |
+| bad.markets     | available | $9.99     | —             | 82             | 45     | 3      | name.com    |
 | fancy.markets   | resell    | $9.99     | —             | 84             | 29     | 5      | Dynadot Inc |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,634-row public sample | 4,632 live domains                               |
+| 4,634-row public sample | 4,634 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
