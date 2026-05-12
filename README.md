@@ -67,7 +67,7 @@ print(df.head())
 | Trex.markets     | available | $26.98    | —             | 80             | 24     | 5      | namecheap         |
 | Fanta.markets    | available | $26.98    | —             | 88             | 17     | 5      | namecheap         |
 | jewels.markets   | available | $9.99     | —             | 80             | 15     | 6      | name.com          |
-| carrie.markets   | available | $9.99     | —             | 82             | 11     | 6      | name.com          |
+| carrie.markets   | available | $9.99     | —             | 82             | 10     | 6      | name.com          |
 | matcha.markets   | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
 | sweets.markets   | available | $9.99     | —             | 90             | 18     | 6      | name.com          |
 | useit.markets    | available | $9.99     | —             | 94             | 7      | 6      | name.com          |
@@ -81,9 +81,9 @@ print(df.head())
 | ideas.markets    | premium   | $250      | —             | 62             | 37     | 5      | name.com          |
 | Greg.markets     | available | $26.98    | —             | 66             | 35     | 4      | namecheap         |
 | howto.markets    | premium   | $82.50    | —             | 76             | 35     | 6      | name.com          |
-| theone.markets   | available | $9.99     | —             | 74             | 32     | 7      | name.com          |
+| hashtag.markets  | available | $9.99     | —             | 82             | 32     | 7      | name.com          |
 | partners.markets | premium   | $250      | —             | 61             | 32     | 8      | name.com          |
-| hashtag.markets  | available | $9.99     | —             | 82             | 30     | 7      | name.com          |
+| theone.markets   | available | $9.99     | —             | 74             | 32     | 7      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
