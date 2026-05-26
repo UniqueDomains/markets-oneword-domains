@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .markets one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,819 domains · **Median ask:** $48.10 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/markets`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | jewels.markets   | available | $9.99     | —             | 80             | 15     | 6      | name.com          |
 | carrie.markets   | available | $9.99     | —             | 82             | 10     | 6      | name.com          |
 | matcha.markets   | available | $9.99     | —             | 86             | 39     | 6      | name.com          |
-| sweets.markets   | available | $9.99     | —             | 90             | 18     | 6      | name.com          |
+| sweets.markets   | available | $9.99     | —             | 90             | 19     | 6      | name.com          |
 | useit.markets    | available | $9.99     | —             | 94             | 7      | 6      | name.com          |
 | Phil.markets     | available | $26.98    | —             | 78             | 40     | 4      | namecheap         |
 | whatnot.markets  | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc.   |
@@ -78,9 +78,9 @@ print(df.head())
 | robots.markets   | premium   | $1,250    | —             | 62             | 47     | 6      | name.com          |
 | dave.markets     | available | $9.99     | —             | 76             | 38     | 4      | name.com          |
 | opinions.markets | resell    | —         | —             | 62             | 11     | 8      | Porkbun LLC       |
-| ideas.markets    | premium   | $250      | —             | 62             | 37     | 5      | name.com          |
+| ideas.markets    | premium   | $250      | —             | 62             | 36     | 5      | name.com          |
 | Greg.markets     | available | $26.98    | —             | 66             | 34     | 4      | namecheap         |
-| howto.markets    | premium   | $82.50    | —             | 76             | 35     | 6      | name.com          |
+| howto.markets    | premium   | $82.50    | —             | 76             | 33     | 6      | name.com          |
 | hashtag.markets  | available | $9.99     | —             | 82             | 32     | 7      | name.com          |
 | partners.markets | premium   | $250      | —             | 61             | 32     | 8      | name.com          |
 | theone.markets   | available | $9.99     | —             | 74             | 32     | 7      | name.com          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
