@@ -82,7 +82,7 @@ print(df.head())
 | Greg.markets     | available | $26.98    | —             | 66             | 34     | 4      | namecheap         |
 | howto.markets    | premium   | $82.50    | —             | 76             | 33     | 6      | name.com          |
 | hashtag.markets  | available | $9.99     | —             | 82             | 32     | 7      | name.com          |
-| partners.markets | premium   | $250      | —             | 61             | 32     | 8      | name.com          |
+| partners.markets | premium   | $250      | —             | 61             | 31     | 8      | name.com          |
 | theone.markets   | available | $9.99     | —             | 74             | 32     | 7      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
