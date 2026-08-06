@@ -683,7 +683,7 @@ c6a989d7-bcf2-4587-b231-19de3136c8bf,environmentally.markets,available,9.99,,med
 a8dbb50e-79dc-44f3-9d56-3cd7bf28ee97,sodawater.markets,available,9.99,,high,low,10,name.com,,
 c2742c5e-1ca5-44bb-89f2-851d8b25c2d4,comfortably.markets,available,9.99,,high,low,11,name.com,,
 594c5d0e-a7cd-4c2f-9739-bbf2e3b86bc1,suck.markets,available,9.99,,medium,low,4,name.com,,
-0f31a009-352f-4857-b31e-0fd3ce280f06,financial.markets,premium,3125,,medium,low,9,name.com,,
+0f31a009-352f-4857-b31e-0fd3ce280f06,financial.markets,premium,3125,3125,medium,low,9,name.com,,
 db664bf9-bd12-43d0-8745-913510a617aa,hitup.markets,available,9.99,,high,low,6,name.com,,
 5eb3c125-efc3-42be-883f-257581e9968e,lobby.markets,available,9.99,,high,low,5,name.com,,
 df482325-af93-4b60-b6e3-e8269c33eb67,independent.markets,available,9.99,,high,low,11,name.com,,
