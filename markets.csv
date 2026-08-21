@@ -379,7 +379,7 @@ b472bf3f-d33d-460d-bfa1-4a618f22addd,child.markets,available,9.99,,high,low,5,na
 8ecd7c56-4dd6-4ea4-a200-ee23cf8ae765,commercial.markets,premium,250,,high,low,10,name.com,,
 fc41f98d-d90d-4c3a-b7ab-8ea3751c6798,forgiving.markets,available,9.99,16.99,high,low,9,name.com,,
 55b3ba1f-e85e-47ad-9ca1-60bdfbcaa39f,papa.markets,resell,9.99,,high,low,4,Dynadot Inc,03/04/2026 12:05,03/04/2027 12:05
-e3589e1c-8b9d-4313-b019-4d8d362128e9,key.markets,premium,500,,high,medium,3,name.com,,
+e3589e1c-8b9d-4313-b019-4d8d362128e9,key.markets,premium,500,500,medium,medium,3,name.com,,
 6e9d067e-a247-41c3-8f76-1dac8a298a15,compound.markets,available,9.99,16.99,high,low,8,name.com,,
 b741a92e-cd0b-4ce4-8d59-0655367efc52,localtime.markets,available,9.99,,high,low,10,name.com,,
 65be53bc-e134-4d74-b2cc-1d5a47341fde,copewith.markets,available,9.99,,high,low,9,name.com,,
