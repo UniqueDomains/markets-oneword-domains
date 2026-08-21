@@ -75,7 +75,7 @@ print(df.head())
 | big.markets   | premium   | $500      | $500          | high           | medium | 3      | name.com          |
 | bce.markets   | available | $9.99     | —             | medium         | low    | 3      | name.com          |
 | fancy.markets | resell    | $9.99     | —             | high           | low    | 5      | Dynadot Inc       |
-| cup.markets   | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| cup.markets   | premium   | $500      | $500          | medium         | low    | 3      | name.com          |
 | bed.markets   | available | $9.99     | —             | high           | low    | 3      | name.com          |
 | radar.markets | resell    | $9.99     | —             | medium         | low    | 5      | Dynadot Inc       |
 | dip.markets   | premium   | $500      | —             | high           | low    | 3      | name.com          |
