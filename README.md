@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .markets one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,966 domains · **Median ask:** $27.87 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/markets`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| damn.markets  | available | $9.99     | $16.99        | high           | low    | 4      | name.com        |
-| ago.markets   | available | $9.99     | $16.99        | medium         | low    | 3      | name.com        |
-| fit.markets   | resell    | $9.99     | —             | high           | medium | 3      | Dynadot Inc     |
-| bag.markets   | premium   | $520      | $520          | medium         | low    | 3      | namecheap       |
-| ala.markets   | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| per.markets   | resell    | $9.99     | —             | high           | low    | 3      | Dynadot Inc     |
-| bid.markets   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| ana.markets   | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| papa.markets  | resell    | $9.99     | —             | high           | low    | 4      | Dynadot Inc     |
-| big.markets   | premium   | $500      | $500          | high           | medium | 3      | name.com        |
-| bce.markets   | available | $9.99     | —             | medium         | low    | 3      | name.com        |
-| fancy.markets | resell    | $9.99     | —             | high           | low    | 5      | Dynadot Inc     |
-| cup.markets   | premium   | $520      | $520          | medium         | low    | 3      | namecheap       |
-| bed.markets   | available | $9.99     | —             | high           | low    | 3      | name.com        |
-| radar.markets | resell    | $9.99     | —             | medium         | low    | 5      | Dynadot Inc     |
-| dip.markets   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| beg.markets   | available | $9.99     | —             | medium         | low    | 3      | name.com        |
-| bee.markets   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| dvd.markets   | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| bud.markets   | available | $9.99     | —             | high           | low    | 3      | name.com        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ago.markets   | available | $9.99     | $16.99        | medium         | low    | 3      | name.com          |
+| fit.markets   | resell    | $9.99     | —             | high           | medium | 3      | Dynadot Inc       |
+| bag.markets   | premium   | $520      | $520          | medium         | low    | 3      | namecheap         |
+| ala.markets   | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| per.markets   | resell    | $9.99     | —             | high           | low    | 3      | Dynadot Inc       |
+| bid.markets   | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| ana.markets   | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| papa.markets  | resell    | $9.99     | —             | high           | low    | 4      | Dynadot Inc       |
+| big.markets   | premium   | $500      | $500          | high           | medium | 3      | name.com          |
+| bce.markets   | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| fancy.markets | resell    | $9.99     | —             | high           | low    | 5      | Dynadot Inc       |
+| cup.markets   | premium   | $520      | $520          | medium         | low    | 3      | namecheap         |
+| bed.markets   | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| radar.markets | resell    | $9.99     | —             | medium         | low    | 5      | Dynadot Inc       |
+| dip.markets   | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| beg.markets   | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| bee.markets   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| dvd.markets   | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| bud.markets   | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| cap.markets   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 19 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKETS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKETS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
