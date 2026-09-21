@@ -41,7 +41,7 @@ e2ad7274-b2b5-4c36-8499-35f7b014c82b,comeover.markets,available,9.99,,high,low,9
 6e811c55-7a9b-4007-8237-50a64e3d8746,sensual.markets,available,9.99,,medium,low,7,name.com,,,
 57c9d5e2-a2bb-4c0c-b87d-56a3fce7e916,broadband.markets,premium,250,,high,low,9,name.com,,,
 bab6028e-04d9-49a5-b449-0c8312313fb0,preventive.markets,available,9.99,16.99,high,low,10,name.com,,,
-050fb324-492d-47a5-97b2-0169561b83bd,Misses.markets,available,9.99,,high,low,6,name.com,,,
+050fb324-492d-47a5-97b2-0169561b83bd,misses.markets,available,9.99,,high,low,6,name.com,,,
 1164ecba-1e72-4403-a51d-96a7646cf1cf,sale.markets,premium,1250,,high,low,4,name.com,,,
 9458221f-810e-4e60-a265-7bbc8afda071,retained.markets,available,9.99,,medium,low,8,name.com,,,
 6062fab3-c314-45e4-a6d7-524bb6184dc5,install.markets,available,9.99,,high,low,7,name.com,,,
@@ -68,7 +68,7 @@ cab1eaed-6957-4fa3-96ee-33551e13a7f2,both.markets,available,9.99,,high,low,4,nam
 65bdad20-d354-4652-86ef-5287d0967a83,behind.markets,available,9.99,,high,low,6,name.com,,,
 1567fbe3-bbb0-4f96-a5ca-f98ae39e0d8d,confident.markets,available,9.99,16.99,high,low,9,name.com,,,
 00d62bed-d139-4a8c-882d-e3a5e4f02f81,seize.markets,available,9.99,16.99,medium,low,5,name.com,,,
-d5f33a81-0656-4e4f-b140-45506c561f11,tonic.markets,available,5.98,26.98,medium,low,5,namecheap,,,13/09/2026 02:52
+d5f33a81-0656-4e4f-b140-45506c561f11,tonic.markets,available,9.99,16.99,medium,low,5,name.com,,,19/09/2026 16:01
 7aaedce9-75bd-4766-8e76-304a22aac4a0,confession.markets,available,9.99,,high,low,10,name.com,,,
 c5cc4311-413d-4ce8-8b8d-b0129b662d71,manmade.markets,available,9.99,,medium,low,8,name.com,,,
 471de3d4-b2d6-44e3-8449-cbc1cb0bf47b,inhale.markets,available,9.99,,high,low,6,name.com,,,
@@ -107,7 +107,7 @@ c2c14fc1-51f6-42ad-93af-af562f4ecdb8,long.markets,premium,500,,high,low,4,name.c
 f4b37a3e-49d6-453e-a83a-5293a087a618,recap.markets,available,9.99,,high,low,5,name.com,,,
 e5bbc674-50ea-4fe6-9ad4-fa87a76e3fde,contend.markets,available,9.99,,high,low,7,name.com,,,
 f7cbedc2-26d8-4385-a4c2-758336d98d71,democracy.markets,available,9.99,,high,low,9,name.com,,,
-3230272d-c343-4ad4-9068-50bbd94148b0,technically.markets,available,5.98,26.98,low,low,11,namecheap,,,15/09/2026 06:00
+3230272d-c343-4ad4-9068-50bbd94148b0,technically.markets,available,5.98,26.98,low,low,11,namecheap,,,19/09/2026 04:54
 98d640dc-e409-4428-9401-c942f8d47836,consist.markets,available,9.99,,high,low,7,name.com,,,
 98a86c70-0159-4123-bb06-13b89dc3a432,allthebest.markets,available,9.99,,high,low,12,name.com,,,
 a43b861e-48f4-491a-bc60-e05ba5ce4aff,numb.markets,available,9.99,,medium,low,4,name.com,,,
@@ -137,8 +137,8 @@ c5368065-0867-461e-b442-e7d98f3c8506,allnighter.markets,available,9.99,,high,low
 fd295e94-db58-4d15-9816-61a772f604d7,composed.markets,available,9.99,16.99,high,low,8,name.com,,,
 2d069e8c-71be-4545-85f3-5f7953326232,heatup.markets,available,9.99,,high,low,7,name.com,,,
 f025b823-3e95-4500-8f26-2359314555c1,blanket.markets,available,5.98,26.98,medium,low,7,namecheap,,,08/09/2026 07:17
-65d24904-30da-42ae-ac81-97a7d4144bd1,garden.markets,premium,250,,high,low,6,name.com,,,
-3605d631-7fdd-4d91-989f-ed3c2ff96d18,gofor.markets,available,9.99,,high,low,6,name.com,,,
+65d24904-30da-42ae-ac81-97a7d4144bd1,garden.markets,premium,260,260,medium,low,6,namecheap,,,19/09/2026 06:17
+3605d631-7fdd-4d91-989f-ed3c2ff96d18,gofor.markets,available,5.98,26.98,medium,low,6,namecheap,,,19/09/2026 19:53
 a134245e-5db7-4a18-aea5-d2bed8c62ec9,assess.markets,available,9.99,,high,low,6,name.com,,,
 209cbc2a-8cd2-4efe-991d-c1a7ec9136c5,stunned.markets,available,9.99,,medium,low,7,name.com,,,
 cdc92ab2-f499-47b6-a6a4-3cfb9e88389b,thirsty.markets,available,9.99,,high,low,7,name.com,,,
@@ -192,7 +192,6 @@ f44b529a-590e-447f-8f48-696ac6163069,terribly.markets,available,9.99,,medium,low
 81069a4f-0c6f-4838-ac33-758420d4d6b8,jimmy.markets,available,9.99,,high,low,5,name.com,,,
 c6e51919-6ed5-4ed6-a79d-70ddcc0da4c0,chew.markets,available,9.99,,medium,low,4,name.com,,,
 405b98e8-0809-45d5-b114-b77ddb9a4895,filled.markets,available,9.99,,high,low,6,name.com,,,
-5aae0b48-f511-472e-aea6-ef08a7b00b41,door.markets,available,9.99,,high,low,4,name.com,,,
 34583a60-44c7-47f6-bd54-c489451fac78,roller.markets,available,9.99,,high,low,6,name.com,,,
 36f53096-9b52-4975-b0c2-82dd2e58e758,wellbeing.markets,available,9.99,,high,low,9,name.com,,,
 289e1de2-ae9f-4174-9597-0599c9038028,chimney.markets,available,9.99,,high,low,7,name.com,,,
@@ -209,14 +208,14 @@ f48c605b-08eb-4179-8bd7-a66c90bbbe68,dishout.markets,available,9.99,,high,low,8,
 9aeeceea-bb93-40cc-84ae-80585074ec8e,obtain.markets,available,9.99,,high,low,6,name.com,,,
 0c795810-57b6-46ca-a45a-8910f50cb67c,diplomate.markets,available,9.99,,high,low,9,name.com,,,
 5c62074d-9eb1-4157-91c7-3a664e8c2f2b,six.markets,available,9.99,16.99,medium,low,3,name.com,,,
-ec380e19-e774-48df-9192-6110a2eee82f,management.markets,premium,1300,1300,medium,low,10,namecheap,,,08/09/2026 04:55
+ec380e19-e774-48df-9192-6110a2eee82f,management.markets,premium,1300,1300,medium,low,10,namecheap,,,19/09/2026 14:24
 4f555266-f53b-43ab-ae72-b3cb2f190f85,themorethemerrier.markets,available,9.99,,medium,low,20,name.com,,,
 4472b773-2874-42da-82d2-9efd836423b8,avon.markets,available,9.99,,high,low,4,name.com,,,
 ed0057ef-5856-4cbc-aa5f-6bd91908f0de,marvel.markets,available,9.99,,high,low,6,name.com,,,
 51155c8a-7e81-406f-806d-abce545fd9c9,callfor.markets,available,9.99,,high,low,8,name.com,,,
 0571c18c-3e70-49a9-adc0-1256cd261284,invitation.markets,available,9.99,,high,low,10,name.com,,,
 6f02cc6c-139c-4c24-9a36-c60dd545f3e3,aside.markets,available,9.99,,high,low,5,name.com,,,
-2eeac303-e2ba-46c1-a99b-0e2091b0d645,domestic.markets,available,9.99,16.99,high,low,8,name.com,,,
+2eeac303-e2ba-46c1-a99b-0e2091b0d645,domestic.markets,available,5.98,26.98,medium,low,8,namecheap,,,19/09/2026 12:54
 2ae2b123-8901-4b4a-8990-401b6d665cc5,amalgamate.markets,available,9.99,16.99,high,low,10,name.com,,,
 c915d1c6-e575-4f08-9156-2e8587993c72,thorpe.markets,available,9.99,,medium,low,6,name.com,,,
 7313a4f2-3aa8-4985-bd17-04bf82c35258,terrified.markets,available,9.99,,medium,low,9,name.com,,,
@@ -230,7 +229,7 @@ ba5e56bd-f37d-434a-b8de-6c6a5c8c6749,boxing.markets,available,9.99,,high,low,6,n
 c70a9aaf-35f2-42d6-b7d1-10b1e288f66a,attract.markets,available,9.99,,high,low,7,name.com,,,
 7ef561a2-b7d2-492f-8953-c824bb0b5069,marooned.markets,available,9.99,,medium,low,8,name.com,,,
 6b1ec3bc-8ec6-4abe-9546-6e9736f26f07,conduction.markets,available,9.99,,high,low,10,name.com,,,
-c494cf93-9660-4ef5-8d44-f355c5d9af1d,sent.markets,available,5.98,26.98,medium,low,4,namecheap,,,13/09/2026 03:19
+c494cf93-9660-4ef5-8d44-f355c5d9af1d,sent.markets,available,5.98,26.98,low,low,4,namecheap,,,19/09/2026 16:10
 53c71443-36cd-4101-b459-ac3a51a74f41,visualized.markets,available,9.99,,high,low,10,name.com,,,
 a0d01c04-dd4d-4b16-bcd4-a628c335b950,increased.markets,available,9.99,,high,low,9,name.com,,,
 6d5fd3d3-3bb5-4f71-8a9f-405563d31d90,filming.markets,available,9.99,,high,low,7,name.com,,,
@@ -261,7 +260,7 @@ e93c810c-6780-4d84-93d9-8f1a5d992b1c,jimthorpe.markets,available,9.99,,high,low,
 17ef42b3-1fbb-43b3-a2ee-b8ff24d572cb,lust.markets,available,9.99,,medium,low,4,name.com,,,
 e457a896-adb0-469e-9332-8f19e9e612ae,norfolk.markets,available,9.99,,high,low,7,name.com,,,
 ed3a3ba0-72b2-4cab-8246-f2be2b0f73ac,toorder.markets,available,9.99,,medium,low,8,name.com,,,
-c3cfb32b-f897-47ea-9e07-93679bc91e7b,engineer.markets,available,5.98,26.98,medium,low,8,namecheap,,,08/09/2026 09:57
+c3cfb32b-f897-47ea-9e07-93679bc91e7b,engineer.markets,available,5.98,26.98,medium,low,8,namecheap,,,19/09/2026 14:35
 32116369-67ff-487b-94a4-56261031304c,leisure.markets,available,9.99,,high,low,7,name.com,,,
 9d248966-d381-49fb-a72f-12df9fbc5344,cleaner.markets,available,9.99,,high,low,7,name.com,,,
 2fd23f1e-be3c-456d-993d-31873890f713,treatment.markets,available,9.99,,high,low,9,name.com,,,
@@ -303,7 +302,7 @@ c89075a4-e602-4ebe-8fab-7c62bc1119e0,resolved.markets,available,9.99,,high,low,8
 51fdd963-121a-4030-88ba-5d717d45b990,workings.markets,available,9.99,,high,low,8,name.com,,,
 e0c3d179-d448-4e95-8410-5b382cb7931d,romance.markets,available,9.99,,high,low,7,name.com,,,
 0357b347-74b7-466b-b972-0e8f158318bc,endowment.markets,premium,1250,,high,low,9,name.com,,,
-b4191641-ffde-418e-b971-0a8ce5d76d68,uniform.markets,available,5.98,26.98,medium,low,7,namecheap,,,12/09/2026 03:44
+b4191641-ffde-418e-b971-0a8ce5d76d68,uniform.markets,available,5.98,26.98,medium,low,7,namecheap,,,19/09/2026 05:41
 b75f8863-7eb6-4390-933b-b5feda7f7ee4,something.markets,available,9.99,,high,low,9,name.com,,,
 99faa9ff-2871-4013-a0f0-c9c91e84ee9b,concentrated.markets,available,9.99,,medium,low,12,name.com,,,
 d3e14631-64c8-4aa1-b43f-7adeda16e8c8,instant.markets,premium,250,250,high,low,7,name.com,,,
@@ -342,7 +341,7 @@ e70a27b7-0135-4b78-a8ee-4fb4bb147b60,attimes.markets,available,9.99,,medium,low,
 90579d34-5e05-4ce9-b16f-3605ee4cfbdf,surething.markets,available,9.99,,high,low,10,name.com,,,
 f392088b-07e6-4ee4-8e80-cfec9172f6e6,mature.markets,available,9.99,,high,low,6,name.com,,,
 4505912e-0ce7-4da5-aef4-4f092de764df,middle.markets,available,9.99,,high,low,6,name.com,,,
-628f718a-4127-42d0-b3aa-e8e58ed87a88,enterprise.markets,premium,500,,high,medium,10,name.com,,,
+628f718a-4127-42d0-b3aa-e8e58ed87a88,enterprise.markets,premium,520,520,medium,low,10,namecheap,,,19/09/2026 05:02
 c161448f-a306-4d00-8c14-009016614a77,cleveland.markets,available,9.99,,medium,low,9,name.com,,,
 b7b3e3b4-d702-4641-8044-86230069d870,resolution.markets,available,9.99,,high,low,10,name.com,,,
 43809c32-eba6-4f53-a174-412ae8780751,butcher.markets,available,9.99,,medium,low,7,name.com,,,
@@ -375,10 +374,10 @@ cbb98083-2c65-4437-b14f-e0360cd1e30b,boattrip.markets,available,9.99,,high,low,9
 bd00aceb-396f-498a-adf2-059663b2f347,laugh.markets,available,9.99,,high,low,5,name.com,,,
 9abb5c15-2ec9-4182-a018-df93da30c1be,conquer.markets,available,9.99,,high,low,7,name.com,,,
 b472bf3f-d33d-460d-bfa1-4a618f22addd,child.markets,available,9.99,,high,low,5,name.com,,,
-8ecd7c56-4dd6-4ea4-a200-ee23cf8ae765,commercial.markets,premium,250,,high,low,10,name.com,,,
+8ecd7c56-4dd6-4ea4-a200-ee23cf8ae765,commercial.markets,premium,260,260,medium,low,10,namecheap,,,19/09/2026 10:28
 fc41f98d-d90d-4c3a-b7ab-8ea3751c6798,forgiving.markets,available,9.99,16.99,high,low,9,name.com,,,
 55b3ba1f-e85e-47ad-9ca1-60bdfbcaa39f,papa.markets,resell,9.99,,high,low,4,Dynadot Inc,03/04/2026 12:05,03/04/2027 12:05,
-e3589e1c-8b9d-4313-b019-4d8d362128e9,key.markets,premium,520,520,medium,medium,3,namecheap,,,13/09/2026 03:47
+e3589e1c-8b9d-4313-b019-4d8d362128e9,key.markets,premium,520,520,medium,low,3,namecheap,,,19/09/2026 11:28
 6e9d067e-a247-41c3-8f76-1dac8a298a15,compound.markets,available,9.99,16.99,high,low,8,name.com,,,
 b741a92e-cd0b-4ce4-8d59-0655367efc52,localtime.markets,available,9.99,,high,low,10,name.com,,,
 65be53bc-e134-4d74-b2cc-1d5a47341fde,copewith.markets,available,9.99,,high,low,9,name.com,,,
@@ -395,7 +394,7 @@ ca89a0d5-800b-47c9-86b4-2d2cf68e829c,sex.markets,premium,500,,high,medium,3,name
 5c366037-8857-4550-b430-cc7ad70c2bb6,stand.markets,available,9.99,,high,low,5,name.com,,,
 50384324-bb09-49fa-bf57-3a22f851a8c1,healing.markets,available,9.99,,high,low,7,name.com,,,
 7f3f7471-ce29-4086-993d-4ba27042a5d9,slight.markets,available,9.99,,medium,low,6,name.com,,,
-b5402c72-57fa-4778-8f10-f6c2a37ec66a,player.markets,premium,1300,1300,medium,low,6,namecheap,,,15/09/2026 00:56
+b5402c72-57fa-4778-8f10-f6c2a37ec66a,player.markets,premium,1250,1250,low,low,6,name.com,,,19/09/2026 09:54
 9062b8af-f19a-460b-80a5-9d9823ae3295,silly.markets,available,9.99,16.99,high,low,5,name.com,,,
 106ff006-6f96-4546-b86b-8f909fb480c0,quality.markets,available,9.99,,high,low,7,name.com,,,
 b8f8903b-6ae3-4529-9a11-9c2b1f8da2df,pretence.markets,available,9.99,,medium,low,8,name.com,,,
@@ -410,7 +409,7 @@ d3618239-1b33-48be-ae8e-ccc624b4391a,these.markets,available,9.99,,medium,low,5,
 d163997b-7c01-4156-9b4a-dbc349b0f51d,horseback.markets,available,9.99,16.99,high,low,9,name.com,,,
 aae840f4-a9f2-4d1e-8619-82c36ef6b8e0,one.markets,resell,,,high,medium,3,"Spaceship, Inc.",07/03/2024 15:15,07/03/2027 15:15,
 7b266eb9-e779-423c-8a8c-f704508661cf,rejoin.markets,available,9.99,,high,low,6,name.com,,,
-aaf795c3-eedf-453e-80c6-66acd0befcb3,FedEx.markets,available,9.99,,high,low,5,name.com,,,
+aaf795c3-eedf-453e-80c6-66acd0befcb3,fedex.markets,available,9.99,,high,low,5,name.com,,,
 640ec13c-6491-4d29-b258-658114cb1a37,stockholm.markets,available,9.99,,high,low,9,name.com,,,
 71900284-5e08-4e0d-84a3-f737bfd08db1,accustomed.markets,available,9.99,16.99,high,low,10,name.com,,,
 4e591ebd-6558-444d-b853-5076e5c280fe,dirty.markets,available,9.99,16.99,high,low,5,name.com,,,
@@ -432,13 +431,13 @@ c6abb2fe-05d6-469d-8a4b-75c8afe6340e,showup.markets,available,9.99,,high,low,7,n
 ec865470-7cf7-404c-90f3-de6e729ab7cc,realtime.markets,premium,250,,high,low,9,name.com,,,
 93555c1b-7562-4957-b5d7-148d45837db2,mining.markets,premium,250,,medium,low,6,name.com,,,
 38cf6e69-1e54-4462-b1f9-4449a05addc6,occur.markets,available,9.99,,high,low,5,name.com,,,
-137d872f-8257-40b7-9ab2-3569b7da15a3,IDcard.markets,available,9.99,,high,low,7,name.com,,,
+137d872f-8257-40b7-9ab2-3569b7da15a3,idcard.markets,available,9.99,,high,low,7,name.com,,,
 d6f58179-d178-45a1-919c-b42dd305cc59,ana.markets,available,9.99,,high,low,3,name.com,,,
 f02f6fbe-533a-465b-bec3-f130f475523b,past.markets,available,9.99,,high,low,4,name.com,,,
 79adfa7a-78eb-44c9-a01e-561d5d1e0bfb,buying.markets,available,9.99,,high,low,6,name.com,,,
 716b2403-6829-463b-83b2-2eef08e9c394,haircut.markets,available,9.99,,high,low,7,name.com,,,
 06b7ce5d-c8dd-4f02-8968-bf0876966772,protective.markets,available,9.99,,high,low,10,name.com,,,
-d600d2ba-ac19-4391-9d3e-9adae4216222,cafe.markets,premium,82.5,,high,low,4,name.com,,,
+d600d2ba-ac19-4391-9d3e-9adae4216222,cafe.markets,premium,85.8,85.8,medium,low,4,namecheap,,,19/09/2026 13:35
 350ff3d5-59c6-464c-8dca-23a7c15c21d8,defend.markets,available,9.99,,high,low,6,name.com,,,
 762e0351-c43e-42f8-883c-c1ca85e6edd0,waitingroom.markets,available,9.99,,high,low,12,name.com,,,
 3b609f1f-963d-473b-95f3-25cbbc54afa7,pretzel.markets,available,9.99,,high,low,7,name.com,,,
@@ -466,9 +465,9 @@ cb41b6a3-e965-42a2-9fb4-5e2844f58ed0,duty.markets,premium,82.5,,medium,low,4,nam
 36af949d-2bdd-4db5-873a-d40fdac86ef3,per.markets,resell,9.99,,high,low,3,Dynadot Inc,29/04/2026 10:13,29/04/2027 10:13,
 fa78f90e-994f-46ab-b983-dce808d02616,greatly.markets,available,9.99,,high,low,7,name.com,,,
 d9b4563e-a820-4159-9ee5-7e3314eb8e17,squall.markets,available,9.99,,medium,low,6,name.com,,,
-e3b2d071-ce64-4dab-8b6e-db6b3c91e76c,healthy.markets,resell,,,high,low,7,"Sav.com, LLC",07/08/2025 14:05,07/08/2026 14:05,
+e3b2d071-ce64-4dab-8b6e-db6b3c91e76c,healthy.markets,resell,,,high,low,7,"Sav.com, LLC",07/08/2025 14:05,07/08/2027 14:05,20/09/2026 14:31
 88e5214d-17d7-424a-9027-2a4d9fc21ecb,given.markets,available,9.99,,high,low,5,name.com,,,
-7a694ef4-86a8-4ea9-bd72-17d949e08c56,security.markets,premium,250,,high,medium,8,name.com,,,
+7a694ef4-86a8-4ea9-bd72-17d949e08c56,security.markets,premium,260,260,medium,low,8,namecheap,,,19/09/2026 04:42
 fea97829-396c-47c3-b3a2-ddbcee15f2dc,execution.markets,available,9.99,,medium,low,9,name.com,,,
 fae42e1b-929a-4c6a-8aa7-1d51b5206427,household.markets,available,9.99,,high,low,9,name.com,,,
 04b03fb9-ec9b-4af9-83ef-fcb721053fc6,detour.markets,available,9.99,,high,low,6,name.com,,,
@@ -539,8 +538,8 @@ fad9c7e7-6396-4db9-99d3-3b8ddeb42114,softwareengineer.markets,available,9.99,,hi
 ea802a22-aac2-4a5c-bbf1-df4f006c954b,heaven.markets,available,9.99,,high,low,6,name.com,,,
 4fa6eb62-6d81-4ef9-9839-86a6b67262f4,bringto.markets,available,9.99,,high,low,8,name.com,,,
 c78a0034-2e60-4514-a0b2-9181354c89e9,experimental.markets,available,9.99,,high,low,12,name.com,,,
-395ec96f-6621-4302-8703-73a36013da79,Latinalphabet.markets,available,9.99,,medium,low,14,name.com,,,
-b1ba15d9-6f58-49f5-8958-0c347fbfa0a1,discipline.markets,available,5.98,26.98,medium,low,10,namecheap,,,14/09/2026 02:51
+395ec96f-6621-4302-8703-73a36013da79,latinalphabet.markets,available,9.99,,medium,low,14,name.com,,,
+b1ba15d9-6f58-49f5-8958-0c347fbfa0a1,discipline.markets,available,5.98,26.98,medium,low,10,namecheap,,,19/09/2026 11:34
 63ce1dbe-2460-4869-8adc-685744d48a7a,shocking.markets,available,9.99,16.99,medium,low,8,name.com,,,
 9c442673-01ba-4438-94bb-94347552abde,onion.markets,available,9.99,,medium,low,5,name.com,,,
 b97d2a4f-3f18-4afe-a569-a086a1b2d70e,realizable.markets,available,9.99,16.99,high,low,10,name.com,,,
@@ -562,7 +561,6 @@ c84f0e14-c181-461a-8429-64471e1abb25,nearer.markets,available,9.99,,medium,low,6
 f36d0ec0-d738-4904-97aa-8c12388681cb,poorly.markets,available,9.99,,medium,low,6,name.com,,,
 b331d7ae-5875-4e6b-953e-630c7496a7fb,ways.markets,available,9.99,,high,low,4,name.com,,,
 cf66af5f-a7a1-46f5-9136-88c0bf6a21b8,turned.markets,available,9.99,,medium,low,6,name.com,,,
-92c77a16-bf63-4adb-a0e1-9f63a7b33336,moonlight.markets,resell,,,high,low,9,Dynadot Inc,25/07/2025 17:00,25/07/2026 17:00,
 68cbdac4-4fb7-4ff6-b8c0-496082556100,surfer.markets,available,9.99,,high,low,6,name.com,,,
 84f9d8a4-5cd1-4972-96a6-8965dd75c32c,batman.markets,available,9.99,,high,low,6,name.com,,,
 89a8f6dd-5618-45f7-a078-18c8e20fb73c,orleans.markets,available,9.99,,medium,low,7,name.com,,,
@@ -612,7 +610,7 @@ b4e42207-9549-4e30-b193-acdfaf4ecfbd,stuck.markets,available,9.99,,medium,low,5,
 88ef7e1d-23f2-45e6-b462-8a72ccafd4e3,distance.markets,available,9.99,,high,low,8,name.com,,,
 e3ba93a2-69e7-410c-9c07-4db0ee6560da,album.markets,available,9.99,,high,low,5,name.com,,,
 4bba96af-2022-4836-bf35-afe77a9176e5,urge.markets,available,9.99,,high,low,4,name.com,,,
-bca1a71b-c7a2-40e3-8c9a-2b5f89d9b168,rich.markets,premium,520,520,medium,low,4,namecheap,,,15/09/2026 04:16
+bca1a71b-c7a2-40e3-8c9a-2b5f89d9b168,rich.markets,premium,520,520,low,low,4,namecheap,,,19/09/2026 18:40
 c9b9a25b-72ce-4d14-ad41-aa78c0e52054,upto.markets,available,9.99,,medium,low,5,name.com,,,
 ef1fef83-079f-45d4-bbf8-ee1b91a342db,joke.markets,available,9.99,,high,low,4,name.com,,,
 a3c9420c-7165-4206-bdac-c730e9d9ff4b,flew.markets,available,9.99,,high,low,4,name.com,,,
@@ -623,7 +621,7 @@ c86e5ac2-4193-4ddb-b4f6-3957dab6e2d1,unit.markets,resell,,,medium,low,4,Dynadot 
 81362122-5df0-409a-b6f0-5c9a7097e2d3,investor.markets,premium,500,,high,medium,8,name.com,,,
 d7fd0b5c-8700-419f-8dfa-f733170bbbb2,spam.markets,available,9.99,,medium,low,4,name.com,,,
 4e3dc989-7a53-4754-8776-f0dd2be6e68b,pyrenees.markets,available,9.99,,medium,low,8,name.com,,,
-a72f4d90-ac2e-48eb-b38c-51614ff4a7e9,reddish.markets,available,5.98,26.98,low,low,7,namecheap,,,08/09/2026 04:19
+a72f4d90-ac2e-48eb-b38c-51614ff4a7e9,reddish.markets,available,5.98,26.98,low,low,7,namecheap,,,19/09/2026 03:49
 cd3a4cff-63bf-474d-9bda-9ea0b24730a2,namely.markets,available,9.99,,medium,low,6,name.com,,,
 db575024-a073-4e33-b799-a746f5caa790,rudimentary.markets,available,9.99,,medium,low,11,name.com,,,
 644ec627-403c-4aa6-8de3-3ea7b9054872,insignificant.markets,available,9.99,,medium,low,13,name.com,,,
@@ -635,7 +633,6 @@ a87f98ce-d684-4cfc-ab85-73d73445edca,time.markets,premium,500,,high,medium,4,nam
 a895f843-0b95-4c41-846e-02b0e59cf871,bluish.markets,available,9.99,,high,low,6,name.com,,,
 fd37355d-cc40-4ef4-b8ae-10775dcef763,barbeque.markets,available,9.99,,high,low,8,name.com,,,
 58b62179-4bc4-42bf-9c1f-12441b7795fe,genial.markets,available,9.99,16.99,high,low,6,name.com,,,
-d0fa0ea7-428b-4ab5-8e53-761157f42474,rocket.markets,resell,,,high,medium,6,"Sav.com, LLC",28/07/2024 08:12,28/07/2026 08:12,
 d337feaf-002a-4cfc-8166-bdfd36981188,deficit.markets,available,9.99,,high,low,7,name.com,,,
 32f196a9-9c6e-401d-bec1-5b5ce2ab720b,wander.markets,available,9.99,,medium,low,6,name.com,,,
 7c84b7db-d3b0-458f-8695-d54d86380a03,corruption.markets,available,9.99,,medium,low,10,name.com,,,
@@ -645,7 +642,7 @@ f2dd8328-1dde-411b-b7c0-641f4c6c1e15,pronounced.markets,available,9.99,,medium,l
 94ee1b8a-0f86-45ff-bdfa-286ce12dd829,masters.markets,available,9.99,,high,low,7,name.com,,,
 9f2f6418-a4ec-4732-9d6a-bc8cf98cab52,obey.markets,available,9.99,,high,low,4,name.com,,,
 c874d814-86cf-4660-98df-8bfc912f67c7,lips.markets,available,9.99,,medium,low,4,name.com,,,
-9c22864d-4718-4a5c-b04b-5d686d04a03f,cup.markets,premium,520,520,medium,low,3,namecheap,,,08/09/2026 16:35
+9c22864d-4718-4a5c-b04b-5d686d04a03f,cup.markets,premium,520,520,medium,low,3,namecheap,,,19/09/2026 14:42
 0b45736d-d0fe-4bb5-a0d1-06a5d96c78e0,glad.markets,available,9.99,,high,low,4,name.com,,,
 e8210040-3505-42f3-bd4c-4cb0c4896706,bee.markets,resell,,,high,medium,3,"Spaceship, Inc.",13/04/2024 15:15,13/04/2027 15:15,
 c6a0c290-4167-4eae-bcb2-d86cd6a26613,dramatic.markets,available,9.99,16.99,medium,low,8,name.com,,,
@@ -667,7 +664,7 @@ b750aa9b-0895-464d-895e-313a3ecb20ac,lighten.markets,available,9.99,,high,low,7,
 8c9c5434-28e5-4267-8779-c5a7c3367f3f,mono.markets,available,9.99,,high,low,4,name.com,,,
 6acecec5-3b7e-4235-a7f8-f2bed407b580,color.markets,premium,250,,high,low,5,name.com,,,
 7e71dc75-088c-4ecc-a51b-42b0b27b65af,shit.markets,available,9.99,,medium,medium,4,name.com,,,
-8052f994-acff-4188-959a-0ed3bb20c1b4,client.markets,available,5.98,26.98,medium,low,6,namecheap,,,13/09/2026 03:27
+8052f994-acff-4188-959a-0ed3bb20c1b4,client.markets,available,5.98,26.98,medium,low,6,namecheap,,,19/09/2026 04:09
 86bc255d-335c-4ac7-a940-1554d37d7ab9,disparity.markets,available,9.99,,medium,low,9,name.com,,,
 b9928618-af76-4528-901c-40f2fc9961f3,vitaminc.markets,available,9.99,,high,low,9,name.com,,,
 cde380be-c5b2-4c8a-8fee-2e262bb5d722,tvset.markets,available,9.99,,high,low,6,name.com,,,
@@ -682,13 +679,13 @@ c6a989d7-bcf2-4587-b231-19de3136c8bf,environmentally.markets,available,9.99,,med
 a8dbb50e-79dc-44f3-9d56-3cd7bf28ee97,sodawater.markets,available,9.99,,high,low,10,name.com,,,
 c2742c5e-1ca5-44bb-89f2-851d8b25c2d4,comfortably.markets,available,9.99,,high,low,11,name.com,,,
 594c5d0e-a7cd-4c2f-9739-bbf2e3b86bc1,suck.markets,available,9.99,,medium,low,4,name.com,,,
-0f31a009-352f-4857-b31e-0fd3ce280f06,financial.markets,premium,3250,3250,medium,low,9,namecheap,,,14/09/2026 02:49
+0f31a009-352f-4857-b31e-0fd3ce280f06,financial.markets,premium,3250,3250,medium,low,9,namecheap,,,19/09/2026 09:32
 db664bf9-bd12-43d0-8745-913510a617aa,hitup.markets,available,9.99,,high,low,6,name.com,,,
 5eb3c125-efc3-42be-883f-257581e9968e,lobby.markets,available,9.99,,high,low,5,name.com,,,
 df482325-af93-4b60-b6e3-e8269c33eb67,independent.markets,available,9.99,,high,low,11,name.com,,,
 9f4732ed-0dff-465b-93f7-2a1d381fc632,ganja.markets,available,9.99,,medium,low,5,name.com,,,
 7556fcde-0dbd-413f-9cbf-9170efe5e1be,parks.markets,available,9.99,,high,low,5,name.com,,,
-0653de74-1b08-43fd-8b88-0613284e3774,procedure.markets,available,5.98,26.98,medium,low,9,namecheap,,,12/09/2026 04:06
+0653de74-1b08-43fd-8b88-0613284e3774,procedure.markets,available,5.98,26.98,low,low,9,namecheap,,,19/09/2026 02:44
 80c5b1b3-53ac-449a-8c4c-beed4fb6050e,abit.markets,available,9.99,,medium,low,5,name.com,,,
 578d38b8-7fe5-4ce5-98c9-7b255037e305,senior.markets,available,9.99,16.99,high,low,6,name.com,,,
 c0b2f05e-e2ea-4831-a7d4-7b0c81464e7b,woods.markets,available,9.99,,medium,low,5,name.com,,,
@@ -713,7 +710,7 @@ b470d0fb-b767-4405-b41f-2de96ae1a4cb,loads.markets,available,9.99,,high,low,5,na
 60a9c161-7c31-4be1-aabe-c9f359972ea1,kilo.markets,available,9.99,,high,low,4,name.com,,,
 3db7da1c-8578-410f-aefd-7e3866561ec4,continual.markets,available,9.99,16.99,medium,low,9,name.com,,,
 f10a03d9-cc4d-4dbe-94df-0a9076830aac,professor.markets,available,9.99,,high,low,9,name.com,,,
-1090616f-48f8-4953-b9ea-840bfc7274f0,Mario.markets,available,9.99,,high,low,5,name.com,,,
+1090616f-48f8-4953-b9ea-840bfc7274f0,mario.markets,available,9.99,,high,low,5,name.com,,,
 e0339460-08e7-46bb-bfeb-6065b8f78e33,rectify.markets,available,9.99,16.99,high,low,7,name.com,,,
 54a28d7a-355e-47b3-8a33-bb408969a77e,erase.markets,available,9.99,,medium,low,5,name.com,,,
 7110b3c8-2592-4d80-b0aa-be41f7ee294f,capitol.markets,available,9.99,,medium,low,7,name.com,,,
@@ -762,7 +759,7 @@ edbec047-8701-4de0-9def-fcccecaf1b8e,follow.markets,premium,82.5,,high,low,6,nam
 df711ef5-7352-482c-ad82-06d936177638,crap.markets,available,9.99,,medium,low,4,name.com,,,
 f25b861d-23f8-4475-8995-8a81cba82c17,disguise.markets,available,9.99,,high,low,8,name.com,,,
 00f44d58-b4b3-41ef-938e-b52dac2a1e71,female.markets,available,9.99,16.99,high,low,6,name.com,,,
-aac42e38-8cb1-46d5-bd83-0aa7d5ffd9a3,affiliate.markets,resell,,,high,low,9,"Spaceship, Inc.",03/08/2019 13:39,03/08/2026 23:59,
+aac42e38-8cb1-46d5-bd83-0aa7d5ffd9a3,affiliate.markets,resell,,,high,low,9,"Spaceship, Inc.",03/08/2019 13:39,03/08/2027 23:59,20/09/2026 11:20
 302dab64-b1f2-4e18-8fd8-e85b9aefdf50,succinct.markets,available,9.99,16.99,medium,low,8,name.com,,,
 29ac0508-2d9b-45e5-9235-7aa8161964e6,values.markets,available,9.99,,high,low,6,name.com,,,
 4110817c-0623-4a9d-b134-d2ce740a302c,bunny.markets,available,9.99,,high,low,5,name.com,,,
@@ -832,10 +829,10 @@ e329f197-4b64-442c-8aa0-fb7299d381b2,nine.markets,available,9.99,16.99,high,low,
 fc81cb15-4ad6-47c3-a817-2c94e3758f30,oak.markets,available,9.99,,high,low,3,name.com,,,
 30bd65e9-df4f-4e39-a2ad-749802cd5805,xxv.markets,available,9.99,16.99,medium,low,3,name.com,,,
 6a158f81-7caa-4acd-895f-2bd7b1a11bfb,retracted.markets,available,9.99,,medium,low,9,name.com,,,
-94b0fd5a-2997-4ecb-b6af-cc9f210e13af,series.markets,available,5.98,26.98,medium,low,6,namecheap,,,15/09/2026 03:19
+94b0fd5a-2997-4ecb-b6af-cc9f210e13af,series.markets,available,5.98,26.98,medium,low,6,namecheap,,,19/09/2026 17:55
 72d1772b-8fa9-4a71-8c0a-1cea5b2aee33,glancing.markets,available,9.99,,medium,low,8,name.com,,,
 ad1d74a9-ae2b-458e-88c7-f40cba956908,throw.markets,available,9.99,,high,low,5,name.com,,,
-074b88d9-7c62-4fea-af98-da116baa1c4c,run.markets,resell,,,medium,medium,3,Porkbun LLC,23/02/2026 03:48,23/02/2027 03:48,15/09/2026 11:30
+074b88d9-7c62-4fea-af98-da116baa1c4c,run.markets,resell,,,medium,low,3,Porkbun LLC,23/02/2026 03:48,23/02/2027 03:48,19/09/2026 07:07
 caa55d3f-758d-4bd6-9678-443df7710b19,promotion.markets,available,9.99,,high,low,9,name.com,,,
 df61857a-edc0-4195-9d60-ea0c37eaec53,dissolve.markets,available,9.99,,high,low,8,name.com,,,
 b996f56f-ac18-4c35-bc90-aebf9bcf7af0,british.markets,available,9.99,,high,low,7,name.com,,,
@@ -854,7 +851,6 @@ e773a5ef-0d6f-45cd-b162-b1417b6e58e7,civilwar.markets,available,9.99,,medium,low
 771f5913-83bf-4cbc-8e8f-72bc8cc3e4d1,visualise.markets,available,9.99,,high,low,9,name.com,,,
 98af9de3-cdc7-41ce-82bd-688931abdb33,velocity.markets,premium,1250,,high,low,8,name.com,,,
 854c58fa-f6c8-41db-a659-e33bcecd5691,teenager.markets,available,9.99,16.99,medium,low,8,name.com,,,
-7bc9ac11-7cec-4e8b-b987-6d1ad096ea52,computing.markets,available,9.99,,high,low,9,name.com,,,
 79322b9b-c2bc-4dfc-be4f-4cfea8c880d4,taxreturn.markets,available,9.99,,medium,low,10,name.com,,,
 d52a5647-3ac7-41de-b872-dbe826ae043a,laughable.markets,available,9.99,,high,low,9,name.com,,,
 78caf0b4-74b2-4882-8f54-e784d92bd672,completed.markets,available,9.99,16.99,high,low,9,name.com,,,
@@ -865,7 +861,7 @@ bd833c86-6b35-4fd2-b1be-1433ddd1cebe,characteristic.markets,available,9.99,,medi
 90cc6af4-d0b6-4fc9-9374-7ac7bedc8a35,burn.markets,available,9.99,,high,low,4,name.com,,,
 7c77d7ff-a9e2-4c80-be5e-cc8804d3c8d8,dip.markets,premium,500,,high,low,3,name.com,,,
 d249e359-651b-4740-a808-ff0c4e75fba1,always.markets,available,9.99,,high,low,6,name.com,,,
-30d680e0-a53e-46b1-8d46-cccc4beb7422,JesusChrist.markets,available,9.99,,high,low,12,name.com,,,
+30d680e0-a53e-46b1-8d46-cccc4beb7422,jesuschrist.markets,available,9.99,,high,low,12,name.com,,,
 dd341f04-a50b-4e57-a955-0579fc5e5bac,hostile.markets,available,9.99,,medium,low,7,name.com,,,
 bf1db176-8488-4895-8762-84a12b6ae9b2,pretense.markets,available,9.99,,medium,low,8,name.com,,,
 8ad199bd-9a27-45e2-bfa1-040cf9a900b7,mist.markets,available,9.99,,medium,low,4,name.com,,,
@@ -873,7 +869,7 @@ e7c0d7e7-1db4-438c-8e7a-f87e2349173c,atop.markets,available,9.99,,medium,low,4,n
 0f685625-5b3c-4ba6-9911-68fbdbde2a5e,exchange.markets,premium,3125,,high,low,8,name.com,,,
 31da1cd4-0b96-46fa-8a9d-6c9fb099d6ab,eye.markets,premium,500,,medium,low,3,name.com,,,
 423c1f40-bfed-4422-88eb-86119689bdf0,secured.markets,available,9.99,,high,low,7,name.com,,,
-03597934-2a54-43de-ab35-b37b73cbfb45,medical.markets,premium,500,500,high,low,7,name.com,,,
+03597934-2a54-43de-ab35-b37b73cbfb45,medical.markets,premium,520,520,medium,low,7,namecheap,,,20/09/2026 03:07
 bab68304-8f65-4fa0-8257-9d003350aca3,decade.markets,available,9.99,,high,low,6,name.com,,,
 73148fa1-ef1d-4fc4-855b-d8231c628850,cost.markets,available,9.99,,medium,low,4,name.com,,,
 7759396a-bee8-4687-b120-c44538aeb5aa,smoking.markets,available,9.99,,medium,low,7,name.com,,,
@@ -919,14 +915,13 @@ f03ad0d3-7bab-4595-a971-0aad958d63b1,succeed.markets,available,9.99,,high,low,7,
 1e4ad439-9ca4-4257-befa-62b61999f561,truffle.markets,available,9.99,,high,low,7,name.com,,,
 f81fdbb1-6f41-4fdc-a8f4-ba2d5813c9e0,mobilephone.markets,available,9.99,,high,low,12,name.com,,,
 4e5aa710-011e-417c-b085-a354e67b3479,rescue.markets,available,9.99,,high,low,6,name.com,,,
-b676a884-de1d-4d25-ba9d-fde74cea2747,broad.markets,available,9.99,16.99,high,low,5,name.com,,,
 0c79a879-4bf0-4671-b12d-7f4c9f5eaa54,whilst.markets,available,9.99,,medium,low,6,name.com,,,
 c6384299-073b-4020-b2a0-25a6928f9c93,reading.markets,available,9.99,,medium,low,7,name.com,,,
 4d1aab2f-f696-417c-8b7a-2ffd4937a257,condition.markets,available,9.99,,high,low,9,name.com,,,
 29fd8067-6c4c-4aa3-8025-4ea18f1c204d,disclosed.markets,available,9.99,16.99,medium,low,9,name.com,,,
 ae405ef1-55f0-4a9d-b8bd-1b981b4f86b0,respectful.markets,available,9.99,,high,low,10,name.com,,,
 f6545b8d-c5ca-49cf-ab8f-70dc0a1a19b5,this.markets,resell,,,high,medium,4,"Spaceship, Inc.",01/06/2024 05:59,01/06/2030 05:59,
-5577faaf-5fc8-44a7-ac19-df8988ee89c4,flow.markets,resell,,,high,medium,4,"Sav.com, LLC - 42",16/08/2025 15:15,16/08/2026 15:15,
+5577faaf-5fc8-44a7-ac19-df8988ee89c4,flow.markets,resell,,,high,medium,4,Dynadot Inc,16/08/2025 15:15,16/08/2027 15:15,20/09/2026 23:11
 c85e638a-e915-4b16-9f83-2f93e8541422,trend.markets,premium,3728.81,,high,low,5,"Key-Systems, LLC",21/08/2020 13:36,21/08/2030 23:59,
 9e52fbcb-ba05-4259-bb85-03e9cce217f0,shirt.markets,available,9.99,,high,low,5,name.com,,,
 2fcf4702-7cc0-4708-961f-ab0ae4de8586,father.markets,available,9.99,,high,low,6,name.com,,,
@@ -972,13 +967,13 @@ a2fb696d-50f8-4934-97f9-fafe339a8895,iconic.markets,available,9.99,,high,low,6,n
 1b11d9f6-7d93-420c-92ff-3ee3452f84b4,goon.markets,available,9.99,16.99,high,low,5,name.com,,,
 322a721b-ede6-4716-ae68-06752cef3117,irregular.markets,available,9.99,,medium,low,9,name.com,,,
 45e9fcd1-6316-4293-9c3a-32803f69d13a,tax.markets,resell,,,high,medium,3,Porkbun LLC,06/09/2023 20:40,06/09/2026 20:40,
-28a13ca5-f85c-4217-b2e5-8ef00e02e57d,technology.markets,premium,1300,1300,medium,low,10,namecheap,,,08/09/2026 02:51
+28a13ca5-f85c-4217-b2e5-8ef00e02e57d,technology.markets,premium,1300,1300,medium,low,10,namecheap,,,20/09/2026 16:48
 050c5c2d-fa8a-457c-b465-1de14700a562,tomato.markets,available,9.99,,high,low,6,name.com,,,
 0da1de1f-4e13-47b3-996c-210ae868fdf3,marktwain.markets,available,9.99,,high,low,10,name.com,,,
 ba15b09d-42df-4b5a-8878-dbb6994b51f3,contained.markets,available,9.99,16.99,medium,low,9,name.com,,,
 1d76472a-764a-493b-972e-80a1afa8137d,fantastic.markets,premium,82.5,,high,medium,9,name.com,,,
 c77f6d8e-99d6-4885-9f9b-69d9f23404b7,tired.markets,available,9.99,,medium,low,5,name.com,,,
-b8acd57f-79a7-46ce-9d59-a39f56bf9dcd,ohmyGod.markets,available,9.99,,high,low,9,name.com,,,
+b8acd57f-79a7-46ce-9d59-a39f56bf9dcd,ohmygod.markets,available,9.99,,high,low,9,name.com,,,
 8f550962-f0ed-4f4b-aead-9cd17bdfeb6a,conceal.markets,available,9.99,,medium,low,7,name.com,,,
 291c3ad7-b2b2-43f5-9faf-a5bf6e5d264c,endearing.markets,available,9.99,16.99,high,low,9,name.com,,,
 09dc7899-3687-4e6b-b34a-c622a87fdd1f,tornado.markets,available,9.99,,medium,low,7,name.com,,,
@@ -999,3 +994,8 @@ b4cdddc4-b7c2-4f79-b80e-f2b34d6fa64f,meter.markets,available,9.99,,high,low,5,na
 f663f9f6-4403-4719-8635-7f9c65ee1872,people.markets,premium,500,,high,medium,6,name.com,,,
 0ad5e9c4-f5bd-43c5-8836-0541ce1a92f9,achiever.markets,available,9.99,,high,low,8,name.com,,,
 85f66757-2ede-4185-8389-7d4625afd7f8,calf.markets,available,9.99,,high,low,4,name.com,,,
+98db5fa9-cbbb-4ba2-880b-1b84e066f252,damascus.markets,available,9.99,,high,low,8,name.com,,,
+8a5f1824-02b3-48aa-89b0-af922f2041ce,prejudice.markets,available,9.99,,high,low,9,name.com,,,
+07bac190-cd8f-4f33-9c49-8360ba4184b6,average.markets,premium,250,,high,low,7,name.com,,,
+718f0bf5-3c49-4025-a133-047d1364c82e,tour.markets,premium,250,,high,low,4,name.com,,,
+57e643d0-9164-42da-b6e3-73799cde038c,owens.markets,available,9.99,,medium,low,5,name.com,,,
